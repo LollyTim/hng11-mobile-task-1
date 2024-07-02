@@ -19,10 +19,6 @@ A basic shopping app built with React Native and Expo, featuring a product list 
 3. Start the expo development server
 4. Use the Expo Go app on your mobile device to scan the QR code and run the app, or use an emulator.
 
-## APK Download
-
-[Insert link to APK download here]
-
 ## Technologies Used
 
 - React Native
