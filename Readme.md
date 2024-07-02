@@ -12,6 +12,11 @@ A basic shopping app built with React Native and Expo, featuring a product list 
 
 ## Screenshots
 
+![alt text](./assets/Products.png)
+![alt text](./assets/product.png)
+![alt text](./assets/checkout.png)
+![alt text](./assets/success.png)
+
 ## Installation
 
 1. Clone the repository
